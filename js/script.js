@@ -25,7 +25,7 @@ const studentList = document.querySelector("ul.student-list");
  *
  * @param {[string]} param1 - [name of the tag element]
  * @param {[string]} param2 - [property of the element]
- * @param {[string]} param2 - [input property]
+ * @param {[string]} param3 - [input property]
  * @returns {[string]} [a string of the element with a opening and closing tag + property]
  */
 function createElement (elementName, prop, input) {
