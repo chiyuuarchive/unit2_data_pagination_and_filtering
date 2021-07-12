@@ -7,7 +7,7 @@
  - data.js, an array with information of 42 students provided by TreeHouse Island Inc.
  - script.js, the vanilla javascript that enhances the usability of webpage with 6 functions, 2 event listeners. Additionally, built-in functions have also been utilized; predominantly the "Element.querySelector()"
 
-Disclaimer: All files in this repository with the exception of the file, "script.js", have been provided by Treehouse Island, Inc. Only "script.js" was created and coded by the owner to add functionality to the form as per project instructions.
+Disclaimer: All files in this repository with the exception of the file, "script.js", have been provided by Treehouse Island, Inc. Only "script.js" was created and coded by the provider to add functionality to the application as per project instructions.
 
 Contact: If you have questions, ideas or suggestions please contact chiyuuarchive@gmail.com.
 
